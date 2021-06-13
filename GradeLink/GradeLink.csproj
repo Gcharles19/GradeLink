@@ -37,11 +37,12 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.4" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\lib\%40fortawesome\fontawesome-free\less\" />
-    <Folder Include="wwwroot\lib\%40fortawesome\fontawesome-free\scss\" />
+    <Folder Include="wwwroot\lib\fortawesome\fontawesome-free\less\" />
+    <Folder Include="wwwroot\lib\fortawesome\fontawesome-free\scss\" />
     <Folder Include="wwwroot\lib\chartist\scss\settings\" />
     <Folder Include="wwwroot\lib\ionicons\less\" />
     <Folder Include="wwwroot\lib\ionicons\scss\" />
