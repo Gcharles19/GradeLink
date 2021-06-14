@@ -41,7 +41,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Contracts\" />
     <Folder Include="Repository\" />
     <Folder Include="wwwroot\lib\fortawesome\fontawesome-free\less\" />
     <Folder Include="wwwroot\lib\fortawesome\fontawesome-free\scss\" />
