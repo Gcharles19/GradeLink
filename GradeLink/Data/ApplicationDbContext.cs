@@ -12,5 +12,11 @@ namespace GradeLink.Data
             : base(options)
         {
         }
+        public DbSet<District> Districts { get; set; }
+        public DbSet<Parent> Parents { get; set; }
+        public DbSet<Staff> Staffs { get; set; }
+        public DbSet<StaffType> StaffTypes { get; set; }
+        public DbSet<Status> Statuses { get; set; }
+        public DbSet<Student> Students { get; set; }
     }
 }
